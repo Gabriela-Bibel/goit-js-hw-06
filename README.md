@@ -1,1 +1,1 @@
-# goit-js-hw-06
+# https://github.com/Gabriela-Bibel/goit-js-hw-06
